@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TFranne/TFranne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img scr="github-graffic.jpg" alt="My name whit a cool design">
+<img scr="main/github-graffic.jpg" alt="My name whit a cool design">
