@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img scr="main/github-graffic.jpg" alt="My name whit a cool design">
+<img src="main/github-graffic.jpg" alt="My name whit a cool design">
